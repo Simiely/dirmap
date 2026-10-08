@@ -1,3 +1,8 @@
+> ⚠️ **已并入 [`Simiely/pc-tools`](https://github.com/Simiely/pc-tools)（`web/dirmap`）**
+> 本仓库已**归档只读**，内容不再更新。后续维护请到 [pc-tools](https://github.com/Simiely/pc-tools)。
+
+---
+
 # 目录地图 · Directory Map
 
 本地目录浏览/管理工具：把一个深层级文件夹，生成一张**可浏览、可编辑的表格页面**（像电子表格一样管理你的目录）。
